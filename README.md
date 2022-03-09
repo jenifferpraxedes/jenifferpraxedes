@@ -5,18 +5,6 @@
 - 📚 I venture into the 🌍 of programming.
 - 👩‍🎓 Graduated in Business Administration.
 - 🙋‍♀️ Pronouns: She/her 
-- eu 
-- eu 
-- eu
-- eu
-- eu
-- eu
-- eu
-- eue=aofihdiofhadf
-- afuhadfjoadfa
-- aochoaiehcjeac
-
-
 
 
 ![Jeniffer GitHub stats](https://github-readme-stats.vercel.app/api?username=jenifferpraxedes&show_icons=true&theme=dracula&include_all_commits=true&count_private=true)
