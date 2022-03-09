@@ -5,6 +5,17 @@
 - 📚 I venture into the 🌍 of programming.
 - 👩‍🎓 Graduated in Business Administration.
 - 🙋‍♀️ Pronouns: She/her 
+- eu 
+- eu 
+- eu
+- eu
+- eu
+- eu
+- eu
+- eue=aofihdiofhadf
+- afuhadfjoadfa
+- aochoaiehcjeac
+
 
 
 
