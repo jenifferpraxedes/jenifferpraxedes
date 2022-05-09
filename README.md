@@ -24,5 +24,5 @@
 [![email](https://img.shields.io/badge/Gmail-e6e6e6?style=for-the-badge&logo=gmail&logoColor=red)](mailto:contatojenifferpraxedes@gmail.com) 
 [![linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/jeniffepraxedes/-45875016a)
 
-![Snake animation](https://github.com/jenifferpraxedes/jenifferpraxedes/blob/output/github-contribution-grid-snake.svg)
+![Snake animation](https://github.com/jenifferpraxedes/jenifferpraxedes/blob/input/github-contribution-grid-snake.svg)
 </div>
